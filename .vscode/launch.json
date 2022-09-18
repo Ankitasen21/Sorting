@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RadixSort",
+            "request": "launch",
+            "mainClass": "RadixSort",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
             "name": "Launch InsertionSort",
             "request": "launch",
             "mainClass": "InsertionSort",
