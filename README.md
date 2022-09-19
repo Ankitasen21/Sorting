@@ -1,19 +1,20 @@
 # Sorting
 Different Sorting algorithms written in java. 
 ***
-The list of algorithms are: 
-    * Bubble Sort 
-    * Bucket Sort 
-    * Bitonic Sort (to be done)
-    * Cocktail Sort (to be done)
-    * Comb Sort
-    * Cycle Sort (to be done)
-    * Counting Sort
-    * Heap Sort
-    * Insertion Sort
-    * Merge Sort
-    * Quick Sort
-    * Radix Sort
-    * Selection Sort
-    * Shell Sort
-    * Tim Sort (to be done)
+
+    -[x] Bubble Sort 
+    -[x] Bucket Sort 
+    -[ ] Bitonic Sort (to be done)
+    -[ ] Cocktail Sort (to be done)
+    -[x] Comb Sort
+    -[ ] Cycle Sort (to be done)
+    -[x] Counting Sort
+    -[x] Heap Sort
+    -[x] Insertion Sort
+    -[x] Merge Sort
+    -[x] Quick Sort
+    -[x] Radix Sort
+    -[x] Selection Sort
+    -[x] Shell Sort
+    -[ ] Tim Sort (to be done)
+    
