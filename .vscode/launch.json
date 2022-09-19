@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch smallestPairSum",
+            "request": "launch",
+            "mainClass": "smallestPairSum",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
             "name": "Launch ShellSort",
             "request": "launch",
             "mainClass": "ShellSort",

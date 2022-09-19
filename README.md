@@ -17,4 +17,8 @@ Different Sorting algorithms written in java.
     -[x] Selection Sort
     -[x] Shell Sort
     -[ ] Tim Sort (to be done)
-    
+
+***
+
+    -codechef problems: Sorting
+        ~The smallest Pair Sum
