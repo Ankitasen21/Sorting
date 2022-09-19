@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxWeightDiff",
+            "request": "launch",
+            "mainClass": "MaxWeightDiff",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RaceHorse",
+            "request": "launch",
+            "mainClass": "RaceHorse",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
             "name": "Launch smallestPairSum",
             "request": "launch",
             "mainClass": "smallestPairSum",
