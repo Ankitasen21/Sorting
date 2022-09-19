@@ -1,5 +1,5 @@
 # Sorting
-Different Sorting algorithms written in java. 
+#### Different Sorting algorithms written in java. 
 ***
 
     -[x] Bubble Sort 
