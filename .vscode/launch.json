@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
+            "name": "Launch text",
+            "request": "launch",
+            "mainClass": "text",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DaanishProblems",
+            "request": "launch",
+            "mainClass": "DaanishProblems",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubsequenceSum",
+            "request": "launch",
+            "mainClass": "MaxSubsequenceSum",
+            "projectName": "Sorting_c308e97b"
+        },
+        {
+            "type": "java",
             "name": "Launch MaxWeightDiff",
             "request": "launch",
             "mainClass": "MaxWeightDiff",
